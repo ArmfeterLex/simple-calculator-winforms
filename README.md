@@ -2,6 +2,8 @@
 
 Простой калькулятор на C# Windows Forms с отдельными кнопками для каждой операции.
 
+<img width="611" height="475" alt="Simple Calculator WinForms" src="https://github.com/user-attachments/assets/f85acdc9-946c-4dd7-8222-08a6eb4e46a6" />
+
 ## Функциональность
 
 - Ввод двух чисел
